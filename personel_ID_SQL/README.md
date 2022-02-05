@@ -1,7 +1,7 @@
 # Personel ID SQL
 ###  MainActivity.kt dosyasındaki btnBulClick fonksiyonunu yazdım.
 - btnBulClick fonksiyonunun içinde raw dosyasındaki personel.sql dosyasına erişim sağlandı ve sorgulanacak ID ye sahip personel bilgileri çağırıldı.
-- Bu mobil uygulamada bir ID girilir ve o ID ye sahip personel bilgileri ekrana gelir.
+- Bu mobil uygulamada bir ID girilir ve o ID' ye sahip personel bilgileri ekrana gelir.
 
 - Bu fonksiyonun yazımı Mobil Programlama dersinde verilen ödevdi.
 
