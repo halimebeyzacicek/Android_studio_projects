@@ -1,5 +1,5 @@
 # Sayi Tahmin Oyunu
-- 1 ile 10 arasında rastgele bir sayi seçiliyor.
+- 0 ile 10 arasında rastgele bir sayi seçiliyor.
 - Oyuncu bu sayiyi tahmin etmeye çalışıyor.
 - Oyunucu kaçıncı tahminde sayıyı bulduğunu görebiliyor.
 
