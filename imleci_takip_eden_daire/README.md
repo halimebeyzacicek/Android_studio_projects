@@ -1,7 +1,7 @@
 # Imleci Takip Eden Daire
 - click yapılan yer dairenin yeni konumu oluyor. 
 - MainActivity.kt: Play'e basınca olacaklar burada yer alıyor.
-- GameActivity.kt: Oyun görünümünü göstertiğimiz kısım.
+- GameActivity.kt: Oyun görünümünü gösterdiğimiz kısım.
 - GameView.kt: Daire çizimi ve dairenin konum değiştirme olayları burada yer alıyor.
 
 
