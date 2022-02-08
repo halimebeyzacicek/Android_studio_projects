@@ -8,3 +8,4 @@
 
 ![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/5.png)
 ![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/6.png)
+![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/7.png)
