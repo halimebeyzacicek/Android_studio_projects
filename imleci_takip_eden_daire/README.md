@@ -5,5 +5,5 @@
 - GameView.kt: Daire çizimi ve dairenin konum değiştirme olayları burada yer alıyor.
 
 
-![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/1.png)
-![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/2.png)
+![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/8.png)
+![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/9.png)
